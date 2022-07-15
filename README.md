@@ -1,5 +1,6 @@
-### Hi, I’m [bipolar](https://github.com/bipol4r)
+<h2 align="center">👋 Hello! I’m <a href="https://github.com/bipol4r">bipolar</a></h2>
 
+### About Me...
 - :laughing: I’m interested in Cyber Security
 - :hocho: I’m currently learning Go/Java
 - 💞️ I’m looking to collaborate on ...
