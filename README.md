@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @bipol4r
+### Hi, I’m bipolar 
+
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Go/Java
+- 🧑🏻‍💻 I’m currently learning Go/Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tt@outlook.com
 
