@@ -1,9 +1,9 @@
 ### Hi, I’m [bipolar](https://github.com/bipol4r)
 
-- 👀 I’m interested in Cyber Security
-- 🧑🏻‍💻 I’m currently learning Go/Java
+- :laughing: I’m interested in Cyber Security
+- :hocho: I’m currently learning Go/Java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me tt@outlook.com
+- :email: How to reach me tt@outlook.com
 
 <!---
 bipol4r/bipol4r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
