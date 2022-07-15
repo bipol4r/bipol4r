@@ -1,4 +1,4 @@
-### Hi, I’m bipolar 
+### Hi, I’m [bipolar](https://github.com/bipol4r)
 
 - 👀 I’m interested in Cyber Security
 - 🧑🏻‍💻 I’m currently learning Go/Java
